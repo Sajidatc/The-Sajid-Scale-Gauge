@@ -1,6 +1,4 @@
 # The-Sajid-Scale-Gauge
-Novel Sajid Scale Gauge for record
-Dear Editor,
 
 The manuscript entitled "The Sajid Scale Gauge: Discovery 
 of a New Fundamental Constant in Prime Number Theory".
